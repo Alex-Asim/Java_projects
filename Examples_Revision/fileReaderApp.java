@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class fileReaderApp {
     public static void main(String[] args) throws IOException {
-        String HAMLET_PART_FILE_PATH = ".........write the correct path......";
+        String HAMLET_PART_FILE_PATH = "...\\Ebooks\\Business.txt";
 
         // In order to display the first 100 characters from the file you have choose.
         char [] firstHundredCharacters = new char[100];
