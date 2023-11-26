@@ -16,7 +16,7 @@ public class directories_app {
 
         businessBooksDirectory.deleteOnExit();
 
-        File file_handlingDirectory = new File("D:\\Αρχεία\\TechPro Academy\\Εργασίες\\Εργασίες Νάσου\\Examples_Revision\\");
+        File file_handlingDirectory = new File("...\\Examples_Revision\\");
         System.out.println("Files int the handling file directory:");
         System.out.println(Arrays.toString(file_handlingDirectory.list()));
         System.out.println(Arrays.toString(file_handlingDirectory.listFiles()));
