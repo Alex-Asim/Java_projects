@@ -4,7 +4,7 @@ import java.util.Calendar;
 
 public class fileClassUsefulFunctions {
     public static void main(String[] args) {
-        File firstFile = new File("D:\\Αρχεία\\TechPro Academy\\Εργασίες\\Εργασίες Νάσου\\Examples_Revision\\file_handling.java");
+        File firstFile = new File("..\\file_handling.java");
 
         // Prints the name of the file
         System.out.println("File name: " + firstFile.getName());
