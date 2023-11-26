@@ -5,7 +5,7 @@ public class file_handling {
 
     public static void main(String[] args) {
         // To use the same path every time we type the next line in order to avoid type the whole path every time
-        String FILE_HANDLING_DIRECTORY = "D:\\Αρχεία\\TechPro Academy\\Εργασίες\\Εργασίες Νάσου\\Examples_Revision\\";
+        String FILE_HANDLING_DIRECTORY = "...\\Examples_Revision\\";
         
         // Initiate the file
         File famousQuotesFile = new File(FILE_HANDLING_DIRECTORY + "famousQuotes.txt");
